@@ -10,6 +10,9 @@ literals.
 
 ## Usage
 
+A pre-compiled stand-alone JAR file can be downloaded
+from http://1drv.ms/1Qqij8i.
+
 Command line:
 
     java -jar /path/to/xml-to-csv-0.0.1-SNAPSHOT-standalone.jar /another/path/to/your-file.xml
