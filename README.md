@@ -11,11 +11,13 @@ literals.
 ## Usage
 
 A pre-compiled stand-alone JAR file can be downloaded
-from http://1drv.ms/1Qqij8i.
+from [here](https://github.com/alekrutkowski/xml-to-csv/blob/master/xml-to-csv-0.0.1-SNAPSHOT-standalone.jar.zip?raw=true).
 
 Command line:
 
     java -jar /path/to/xml-to-csv-0.0.1-SNAPSHOT-standalone.jar /another/path/to/your-file.xml
+
+A new file `your-file.xml.csv` will be saved.
 
 ## Warning
 
